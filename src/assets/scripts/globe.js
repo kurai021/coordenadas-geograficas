@@ -36,7 +36,7 @@ const INITIAL_VIEW_STATE = {
           // prettier-ignore
           {
               polygon: {
-                  coordinates: [[-180,0],[-180,23],[-180,23],[180,23],[180,23],[180,0]]
+                  coordinates: [[-180,20],[-180,23],[-180,23],[180,23],[180,23],[180,20]]
               },
               name: "Trópico de Cáncer"
           }
@@ -56,7 +56,7 @@ const INITIAL_VIEW_STATE = {
           // prettier-ignore
           {
               polygon: {
-                  coordinates: [[-180,0],[-180,-23],[-180,-23],[180,-23],[180,-23],[180,0]],
+                  coordinates: [[-180,-20],[-180,-23],[-180,-23],[180,-23],[180,-23],[180,-20]],
               },
               name: "Tropico de Capricornio"
           }
